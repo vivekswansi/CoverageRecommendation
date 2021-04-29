@@ -26,3 +26,16 @@ Proactively fixing issues such as no  / low coverage, unintentional marking of a
 **Implementation Dependencies**
 Data sources from various OSS systems like Core N/W, N/W Performance System, N/W Planning and N/W inventory
 
+**Files**
+
+1/ RadioCVDescision.py - Predicts the coverge point is needed to optimize or not
+
+2/ UserSpeedLTE800 - User data speed observed at each pixel level received from probing systems (Training Data)
+
+3/ LTE_L800_SS -  User data speed observed at each pixel level reeived from Radio Network OSS Systems (Training Data)
+
+4/ LTETechThresholds - Data speed range values for each dbm level range
+
+5/ UserSpeedLTE800 - User data speed observed at each pixel level received from probing systems (Testing Data)
+
+6/ LTE_L800_SS -  User data speed observed at each pixel level reeived from Radio Network OSS Systems (Testing Data)
