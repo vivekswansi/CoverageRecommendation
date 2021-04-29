@@ -43,6 +43,8 @@ Data sources from various OSS systems like Core N/W, N/W Performance System, N/W
 
 **Technologies**
 
-Spark
-AWS EC2 & S3
-Python
+1/ Spark
+
+2/ AWS EC2 & S3
+
+3/ Python
