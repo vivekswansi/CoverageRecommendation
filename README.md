@@ -1,8 +1,10 @@
 # CoverageRecommendation
 
+
 **Use Case**
         •	With the advent of 5G and high speed network, one of most important giveaway to customers by any telecom is an assurance of an optimized network
         •	Data-driven insights from various subsystem from OSS help to monitor equipment & network, learn from historical information & anticipate optimization in network coverage           for fallout co-ordinates candidates
+
 **Solution**
     •	ML and Deep Learning algorithms can digest the data from Core N/W, N/W Performance System, N/W Planning and N/W inventory and develop an insight of issues or improvement in        comparison to data reported N/W Monitoring and Customer / Service Operations teams
     •	E.g.: If a customer is geographically located at Dense Urban zone then he/she should receive a signal level & data speed of Dense Urban or Urban based upon the N/W                 technology as:
